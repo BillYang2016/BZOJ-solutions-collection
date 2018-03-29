@@ -13,7 +13,7 @@
 
 ### 范例
 为了方便您理解题解格式，我们在这里放入了一份范例供您查阅。  
-[范例：solution-billyang](https://github.com/BillYang2016/BZOJ-solutions-collection/tree/master/1131)
+[范例：solution-billyang](/1131)
 
 ### 我们的请求
 - 希望您的题解较为详细，不要变成一句话题解。  
