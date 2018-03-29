@@ -6,7 +6,7 @@
 
 ### 格式要求
 对于每一道题新建文件夹，文件夹名为题目编号，如`1000`。  
-默认题解文件名为`solution-name.md`，其中`name`是您的昵称，**必须使用markdown格式编写题解**，若您不了解markdown格式，请参考下面的帮助。  
+默认题解文件名为`solution-name.md`，其中`name`是您的昵称，**必须使用markdown格式编写题解**，若您不了解markdown格式，请参考下面的[帮助](BZOJ-solutions-collection#markdown%E5%B8%AE%E5%8A%A9)。  
 若您的题解需要用到图片，请将图片放在相对位置的`/img`文件夹中，如`/1000/img/1.jpg`。  
 
 **若您的题解不符合以上要求，我们将拒绝合并您的Pull request**  
