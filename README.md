@@ -56,5 +56,8 @@
 2. 使用Moeditor或其他Markdown阅读器打开题解文件 / 将题解文件内容复制到Cmd Markdown编辑器中。  
 3. 在右侧查看题解。  
 
+# 授权问题
+本仓库中所有的题解均可由题解编辑者规定授权，若未声明，默认采用[CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
 # 贡献者（排名不分先后）
 - [Bill Yang](https://bill.moe)
